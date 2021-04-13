@@ -1,0 +1,23 @@
+{
+  "name": "vue-fr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@vue/cli-plugin-router": "^4.5.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsmnn/Vue-fr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsmnn/Vue-fr/issues"
+  },
+  "homepage": "https://github.com/hsmnn/Vue-fr#readme"
+}
